@@ -1,5 +1,5 @@
 # EX 4A DYNAMIC PROGRAMMING - 1
-## DATE: 15-04-25
+## DATE: 1-04-25
 ## AIM:
 To find longest common subsequence using Dynamic Programming.
 
